@@ -77,8 +77,8 @@
 </p>
 
 <p align="center">
-  <b>Profile Views:</b>  
-  <img src="https://visitcount.itsvg.in/api?id=gebrie-dev&icon=0&color=0">
+  <b>Porttfio</b>  
+  <img src="[https://visitcount.itsvg.in/api?id=gebrie-dev&icon=0&color=0](https://gebrieportfolio.netlify.app/)">
 </p>
 
 ---
