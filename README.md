@@ -77,9 +77,12 @@
 </p>
 
 <p align="center">
-  <b>Porttfio</b>  
-  <img src="[https://visitcount.itsvg.in/api?id=gebrie-dev&icon=0&color=0](https://gebrieportfolio.netlify.app/)">
+  <b>🌐 My Portfolio</b><br>
+  <a href="https://gebrieportfolio.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-%230077B5.svg?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio">
+  </a>
 </p>
+
 
 ---
 
