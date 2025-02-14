@@ -71,10 +71,17 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gebrie-dev&theme=radical&hide_border=false" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gebrie-dev&theme=radical&layout=compact" width="48%">
-  <img src="https://github-contributor-stats.vercel.app/api?username=gebrie-dev&limit=5&theme=radical">
+  <a href="https://github.com/gebrie-dev">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=gebrie-dev&theme=radical&hide_border=false" width="48%" alt="GitHub Streak">
+  </a>
+  <a href="https://github.com/gebrie-dev">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gebrie-dev&theme=radical&layout=compact&langs_count=6&hide_border=false" width="48%" alt="Top Languages">
+  </a>
+  <a href="https://github.com/gebrie-dev">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gebrie-dev&theme=radical" width="98%" alt="GitHub Profile Summary">
+  </a>
 </p>
+
 
 <p align="center">
   <b>🌐 My Portfolio</b><br>
