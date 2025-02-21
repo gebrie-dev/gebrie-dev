@@ -1,4 +1,7 @@
-![image](https://github.com/user-attachments/assets/ac59480f-3487-458b-bf76-f2af42ef652b)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ac59480f-3487-458b-bf76-f2af42ef652b" alt="Tech Developer Illustration" width="70%">
+</p>
+
 <h1 align="center">🚀 Hey there! I'm Gebrie 👋</h1>
 
 <p align="center">
