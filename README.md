@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/ac59480f-3487-458b-bf76-f2af42ef652b)
 <h1 align="center">🚀 Hey there! I'm Gebrie 👋</h1>
 
 <p align="center">
