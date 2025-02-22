@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a020e50f-f076-485e-ba60-51066cb833dc" alt="Tech Developer Illustration" style="width: 50%; height: auto;">
+  <img src="https://github.com/user-attachments/assets/a020e50f-f076-485e-ba60-51066cb833dc" alt="Tech Developer Illustration" style="width: 50%; height: 50%;">
 </p>
 
 <h1 align="center">🚀 Hey there! I'm Gebrie 👋</h1>
