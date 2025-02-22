@@ -1,4 +1,6 @@
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=gebrie-dev&theme=radical&hide_border=false" width="48%" alt="GitHub Streak"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gebrie-dev&theme=radical&layout=compact&langs_count=6&hide_border=false" width="48%" alt="Top Languages"> </p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a020e50f-f076-485e-ba60-51066cb833dc" alt="Tech Developer Illustration" width="50%">
+</p>
 
 <h1 align="center">🚀 Hey there! I'm Gebrie 👋</h1>
 
