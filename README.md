@@ -74,23 +74,24 @@
 
 <p align="center">
   <a href="https://github.com/gebrie-dev">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=gebrie-dev&theme=radical&hide_border=false" width="48%" alt="GitHub Streak">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gebrie-dev&theme=radical" width="45%" alt="GitHub Stats">
   </a>
   <a href="https://github.com/gebrie-dev">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gebrie-dev&theme=radical&layout=compact&langs_count=6&hide_border=false" width="48%" alt="Top Languages">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=gebrie-dev&theme=radical&hide_border=false" width="45%" alt="GitHub Streak">
   </a>
   <a href="https://github.com/gebrie-dev">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gebrie-dev&theme=radical" width="98%" alt="GitHub Profile Summary">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gebrie-dev&theme=radical&layout=compact&langs_count=6&hide_border=false" width="98%" alt="Top Languages">
   </a>
 </p>
+
 
 
 <p align="center">
-  <b>🌐 My Portfolio</b><br>
   <a href="https://gebrieportfolio.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-%230077B5.svg?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio">
+    <img src="https://img.shields.io/badge/%F0%9F%8E%AC%20Visit%20My%20Portfolio%20-%230077B5.svg?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio">
   </a>
 </p>
+
 
 
 ---
