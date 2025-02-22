@@ -9,7 +9,6 @@
 </p>
 
 ---
-
 ## 🔥 About Me  
 - ✅ **Full-Stack Development** | MongoDB | Express.js | React | Node.js  
 - ✅ **Modern UI/UX** | Responsive & Interactive Web Apps  
