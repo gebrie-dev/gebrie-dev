@@ -94,6 +94,7 @@
 
 
 ---
-## ![image](https://github.com/user-attachments/assets/ec7cc9e8-86be-4130-823d-e80ae825a601)
- Support My Work
-<p align="center"> If you enjoy my projects, consider buying me a coffee! ☕ </p> <p align="center"> <a href="https://buymeacoffee.com/gabiwagnewa" target="_blank"> <img src="https://img.shields.io/badge/☕ Buy%20Me%20a%20Coffee-F7CA3E?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"> </a> </p>
+## Support My Work
+<p align="center"> If you enjoy my projects, consider buying me a coffee! ☕ </p> 
+<p align="center"> <a href="https://buymeacoffee.com/gabiwagnewa" target="_blank"> 
+  <img src="https://img.shields.io/badge/☕ Buy%20Me%20a%20Coffee-F7CA3E?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"> </a> </p>
