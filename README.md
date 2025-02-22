@@ -94,5 +94,6 @@
 
 
 ---
-
-<p align="center"> If you find my projects useful and want to support my open-source contributions, consider buying me a coffee! ☕ Your support keeps me coding, learning, and building more awesome projects. 🚀 </p> <p align="center"> <a href="https://buymeacoffee.com/gabiwagnewa"> <img src="https://img.shields.io/badge/☕ Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"> </a> </p>
+## ![image](https://github.com/user-attachments/assets/ec7cc9e8-86be-4130-823d-e80ae825a601)
+ Support My Work
+<p align="center"> If you enjoy my projects, consider buying me a coffee! ☕ </p> <p align="center"> <a href="https://buymeacoffee.com/gabiwagnewa" target="_blank"> <img src="https://img.shields.io/badge/☕ Buy%20Me%20a%20Coffee-F7CA3E?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"> </a> </p>
