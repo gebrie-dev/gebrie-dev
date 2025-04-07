@@ -1,42 +1,100 @@
-# Hi there, I'm Gebrie! 👋
+````markdown name=README.md
+<h1 align="center">🚀 Hey there! I'm Gebrie 👋</h1>
 
-![Profile views](https://gpvc.arturio.dev/gebrie-dev)
-[![GitHub followers](https://img.shields.io/github/followers/gebrie-dev?label=Follow&style=social)](https://github.com/gebrie-dev)
-[![Twitter Follow](https://img.shields.io/twitter/follow/gebrie-dev?style=social)](https://twitter.com/gebrie-dev)
+<p align="center">
+  <b>MERN Stack Developer | Tech Enthusiast | Freelancer</b>  
+  <br>
+  Passionate about building <b>scalable web applications</b> and crafting <b>user-friendly digital experiences</b>.
+</p>
 
-## About Me
+---
 
-I am a passionate developer with a keen interest in open-source technologies. I love to explore new programming languages and tools, and I enjoy contributing to various projects on GitHub.
+## 🔥 About Me  
+- ✅ Full-Stack Development | MongoDB | Express.js | React | Node.js  
+- ✅ Modern UI/UX | Responsive & Interactive Web Apps  
+- ✅ Performance Optimization | Speed | Security | Scalability  
+- ✅ Open-Source Contributor | Sharing knowledge & building great products  
 
-- 🔭 I’m currently working on: [Your current projects]
-- 🌱 I’m currently learning: [Technologies you're learning]
-- 👯 I’m looking to collaborate on: [Projects or technologies you're interested in collaborating on]
-- 🤔 I’m looking for help with: [Areas where you need help]
-- 💬 Ask me about: [Topics you are knowledgeable about]
-- 📫 How to reach me: [Your contact information]
-- 😄 Pronouns: [Your pronouns]
-- ⚡️ Fun fact: [A fun fact about you]
+### 🌱 Currently Learning  
+- 🔹 Advanced React (Performance Optimization & Server Components)  
+- 🔹 Scalable Backend Architectures  
+- 🔹 Freelancing & Business Strategies  
 
-## My GitHub Stats
+### 🎯 Vision  
+🚀 Build impactful software | 🌟 Grow as a freelancer | 🏢 Establish my own tech company  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=gebrie-dev&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gebrie-dev&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gebrie-dev&theme=radical)
+---
 
-## My Projects
+## 🌍 Connect With Me  
 
-Here are some of my projects:
+<p align="center">
+  <a href="https://facebook.com/gebrie10">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white">
+  </a>
+  <a href="https://instagram.com/gebrie10">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+  </a>
+  <a href="https://x.com/@gabiwagnew">
+    <img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white">
+  </a>
+  <a href="https://linkedin.com/in/gebrie">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</p>
 
-- [Project 1](https://github.com/gebrie-dev/project1): Description of project 1.
-- [Project 2](https://github.com/gebrie-dev/project2): Description of project 2.
-- [Project 3](https://github.com/gebrie-dev/project3): Description of project 3.
+---
 
-Feel free to check out my repositories for more projects!
+## 💻 Tech Stack  
 
-## Connect with Me
+### 🖥 Frontend  
+<p>
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gebrie-dev)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/gebrie-dev)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gebrie.dev@example.com)
+### ⚙️ Backend & Database  
+<p>
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
+</p>
 
-Let's build something amazing together!
+### 🛠 Tools & DevOps  
+<p>
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7">
+  <img src="https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white">
+</p>
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <a href="https://github.com/gebrie-dev">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gebrie-dev&theme=radical" width="45%" alt="GitHub Stats">
+  </a>
+  <a href="https://github.com/gebrie-dev">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=gebrie-dev&theme=radical&hide_border=false" width="45%" alt="GitHub Streak">
+  </a>
+  <a href="https://github.com/gebrie-dev">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gebrie-dev&theme=radical&layout=compact&langs_count=6&hide_border=false" width="98%" alt="Top Languages">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://gebrieportfolio.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/%F0%9F%8E%AC%20Visit%20My%20Portfolio%20-%230077B5.svg?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio">
+  </a>
+</p>
+
+---
+
+## Support My Work
+<p align="center"> If you enjoy my projects, consider buying me a coffee! ☕️ </p> 
+<p align="center"> <a href="https://buymeacoffee.com/gabiwagnewa" target="_blank"> 
+  <img src="https://img.shields.io/badge/☕️ Buy%20Me%20a%20Coffee-F7CA3E?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"> </a> </p>
+````
+
+This should cover a comprehensive and professional-looking GitHub profile README. Feel free to make any adjustments or add more personal touches!
