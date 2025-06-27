@@ -1,99 +1,113 @@
-
-<h1 align="center">🚀 Hey there! I'm Gebrie 👋</h1>
-
-<p align="center">
-  <b>MERN Stack Developer | Tech Enthusiast | Freelancer</b>  
-  <br>
-  Passionate about building <b>scalable web applications</b> and crafting <b>user-friendly digital experiences</b>.
-</p>
-
----
-
-## 🔥 About Me  
-- ✅ Full-Stack Development | MongoDB | Express.js | React | Node.js  
-- ✅ Modern UI/UX | Responsive & Interactive Web Apps  
-- ✅ Performance Optimization | Speed | Security | Scalability  
-- ✅ Open-Source Contributor | Sharing knowledge & building great products  
-
-### 🌱 Currently Learning  
-- 🔹 Advanced React (Performance Optimization & Server Components)  
-- 🔹 Scalable Backend Architectures  
-- 🔹 Freelancing & Business Strategies  
-
-### 🎯 Vision  
-🚀 Build impactful software | 🌟 Grow as a freelancer | 🏢 Establish my own tech company  
-
----
-
-## 🌍 Connect With Me  
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=4F8DF9&center=true&vCenter=true&width=500&lines=Hey+there!+I'm+Gebrie+%F0%9F%91%8B;MERN+Stack+Developer;Tech+Enthusiast;Freelancer" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <a href="https://facebook.com/gebrie10">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white">
-  </a>
-  <a href="https://instagram.com/gebrie10">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
-  </a>
-  <a href="https://x.com/@gabiwagnew">
-    <img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white">
-  </a>
-  <a href="https://linkedin.com/in/gebrie">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-</p>
-
----
-
-## 💻 Tech Stack  
-
-### 🖥 Frontend  
-<p>
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-</p>
-
-### ⚙️ Backend & Database  
-<p>
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
-</p>
-
-### 🛠 Tools & DevOps  
-<p>
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7">
-  <img src="https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white">
-</p>
-
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <a href="https://github.com/gebrie-dev">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gebrie-dev&theme=radical" width="45%" alt="GitHub Stats">
-  </a>
-  <a href="https://github.com/gebrie-dev">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=gebrie-dev&theme=radical&hide_border=false" width="45%" alt="GitHub Streak">
-  </a>
-  <a href="https://github.com/gebrie-dev">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gebrie-dev&theme=radical&layout=compact&langs_count=6&hide_border=false" width="98%" alt="Top Languages">
-  </a>
+  <b>Passionate about building scalable web applications and crafting exceptional digital experiences</b>
 </p>
 
 <p align="center">
   <a href="https://gebrieportfolio.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/%F0%9F%8E%AC%20Visit%20My%20Portfolio%20-%230077B5.svg?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=react&logoColor=#00D8FF" alt="Portfolio">
+  </a>
+  <a href="https://linkedin.com/in/gebrie" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://buymeacoffee.com/gabiwagnewa" target="_blank">
+    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me Coffee">
   </a>
 </p>
 
 ---
 
-## Support My Work
-<p align="center"> If you enjoy my projects, consider buying me a coffee! ☕️ </p> 
-<p align="center"> <a href="https://buymeacoffee.com/gabiwagnewa" target="_blank"> 
-  <img src="https://img.shields.io/badge/☕️ Buy%20Me%20a%20Coffee-F7CA3E?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"> </a> </p>
-````
+### 🚀 About Me
+<p>
+  Full-stack developer specializing in the MERN stack with a passion for creating high-performance, secure, and scalable web applications. Focused on delivering intuitive UI/UX experiences and contributing to open-source projects.
+</p>
 
+- 🔭 **Currently:** Building scalable web applications & freelancing
+- 🌱 **Learning:** Advanced React patterns, Microservices, Cloud Architecture
+- ⚡ **Vision:** Establish a tech company creating impactful software solutions
+- 💡 **Interests:** Performance optimization, UI/UX design, Developer advocacy
+
+---
+
+### 🛠️ Tech Stack
+
+#### Frontend Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+#### Backend & Databases
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=node-dot-js&logoColor=white)
+
+#### DevOps & Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/gebrie-dev">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gebrie-dev&theme=github_dark" width="100%" alt="Profile Details">
+  </a>
+  
+  <a href="https://github.com/gebrie-dev">
+    <img src="https://github-readme-stats.vercel.app/api?username=gebrie-dev&show_icons=true&theme=github_dark&hide_border=true" width="48%" alt="GitHub Stats">
+  </a>
+  <a href="https://github.com/gebrie-dev">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=gebrie-dev&theme=github_dark&hide_border=true" width="48%" alt="GitHub Streak">
+  </a>
+  
+  <a href="https://github.com/gebrie-dev">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gebrie-dev&layout=compact&theme=github_dark&hide_border=true" width="100%" alt="Top Languages">
+  </a>
+  
+  <a href="https://github.com/gebrie-dev">
+    <img src="https://github-profile-trophy.vercel.app/?username=gebrie-dev&theme=github_dark&no-frame=true&margin-w=15&row=2&column=4" width="100%" alt="GitHub Trophies">
+  </a>
+</p>
+
+---
+
+### 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/gebrie" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://x.com/@gabiwagnew" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter">
+  </a>
+  <a href="https://facebook.com/gebrie10" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+  </a>
+  <a href="https://instagram.com/gebrie10" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="mailto:gebrie@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Let's build something amazing together!</i>
+</p>
+<p align="center">
+  <a href="https://gebrieportfolio.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/View_My_Portfolio-4F8DF9?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio">
+  </a>
+</p>
