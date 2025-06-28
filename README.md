@@ -11,11 +11,11 @@ Gavi, [6/28/2025 7:12 AM]
   <a href="https://gebrie.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=react&logoColor=#00D8FF" alt="Portfolio">
   </a>
-  <a href="https://linkedin.com/in/gebrie" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <a href="https://github.com/gebrie-dev?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/View_All_Repos-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repos">
   </a>
   <a href="https://buymeacoffee.com/gabiwagnewa" target="_blank">
-    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me Coffee">
+    <img src="https://img.shields.io/badge/Buy_Me_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me Coffee">
   </a>
 </p>
 
