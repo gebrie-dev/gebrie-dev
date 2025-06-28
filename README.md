@@ -1,6 +1,6 @@
 Gavi, [6/28/2025 7:12 AM]
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=4F8DF9&center=true&vCenter=true&width=500&lines=Hey+there!+I'm+Gebrie+%F0%9F%91%8B;MERN+Stack+Developer;Tech+Enthusiast;Freelancer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=4F8DF9&center=true&vCenter=true&width=500&lines=Hey+there!+I'm+Gebrie+%F0%9F%91%8B;MERN+Stack+Developer;Next+Js+Developer;Freelancer" alt="Typing SVG" />
 </h1>
 
 <p align="center">
