@@ -109,7 +109,7 @@ Gavi, [6/28/2025 7:12 AM]
   <i>Let's build something amazing together!</i>
 </p>
 <p align="center">
-  <a href="https://gebrieportfolio.netlify.app/" target="_blank">
+  <a href="https://gebrie.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/View_My_Portfolio-4F8DF9?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio">
   </a>
 </p>
