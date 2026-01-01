@@ -26,10 +26,10 @@
   Full-stack developer specializing in the MERN stack with a passion for creating high-performance, secure, and scalable web applications. Focused on delivering intuitive UI/UX experiences and contributing to open-source projects.
 </p>
 
-- **🔭 Currently:** Architecting scalable web systems and helping clients digitize their workflows.
-- **🌱 Focus:** Masterfully bridging the gap between complex backend logic and seamless user experiences.
+- **  Currently:** Architecting scalable web systems and helping clients digitize their workflows.
+- **  Focus:** Masterfully bridging the gap between complex backend logic and seamless user experiences.
 - - ** Vision:** Building impactful SaaS solutions that drive digital transformation in Ethiopia and across the globe.
-- - **💡 Core Values:** Engineering excellence, client satisfaction, and building systems that scale with business growth.
+- - ** Core Values:** Engineering excellence, client satisfaction, and building systems that scale with business growth.
 ---
 
 ### 🛠 Tech Stack
