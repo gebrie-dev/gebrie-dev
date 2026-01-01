@@ -26,11 +26,10 @@
   Full-stack developer specializing in the MERN stack with a passion for creating high-performance, secure, and scalable web applications. Focused on delivering intuitive UI/UX experiences and contributing to open-source projects.
 </p>
 
-- 🔭 Currently: Building scalable web applications & freelancing
-- 🌱 Learning: Advanced React patterns, Microservices, Cloud Architecture
-- ⚡️ Vision: Establish a tech company creating impactful software solutions
-- 💡 Interests: Performance optimization, UI/UX design, Developer advocacy
-
+- **🔭 Currently:** Architecting scalable web systems and helping clients digitize their workflows.
+- **🌱 Focus:** Masterfully bridging the gap between complex backend logic and seamless user experiences.
+- - ** Vision:** Building impactful SaaS solutions that drive digital transformation in Ethiopia and across the globe.
+- - **💡 Core Values:** Engineering excellence, client satisfaction, and building systems that scale with business growth.
 ---
 
 ### 🛠 Tech Stack
@@ -98,15 +97,16 @@ Gavi, [6/28/2025 7:12 AM]
   <a href="https://instagram.com/gebrie10" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-  <a href="mailto:gebrie@example.com" target="_blank">
+  <a href="mailto:gebrie@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
 
 ---
 
+
 <p align="center">
-  <i>Let's build something amazing together!</i>
+  <i>"Committed to building software that solves problems and creates lasting value."</i>
 </p>
 <p align="center">
   <a href="https://gebrie.netlify.app/" target="_blank">
